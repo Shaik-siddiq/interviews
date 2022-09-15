@@ -1,0 +1,23 @@
+.notification-container{
+    display: contents;
+}
+.notification-sub-container{
+    display: contents;
+}
+.notification-days{
+    float: right;
+    margin-top: 0px !important;
+    text-decoration-line: underline;
+    color: #f9c864;
+    font-weight: 600 !important;
+    font-size: 19px !important;
+}
+.notification-main-grid{
+    padding: 40px;
+}
+.notification-text{
+    font-size: 30px !important;
+}
+.watchHistoryDiv{
+    margin-top: 144px;
+}

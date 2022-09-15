@@ -1,0 +1,24 @@
+.viewContainer {
+    padding: 140px 0 50px !important;
+}
+.main-view {
+    padding: 6px;
+}
+.main-view {
+    display: inline-block;
+}
+input#size-small-filled-multi {
+    /* background: #d3ca7b; */
+    border: none;
+    border-radius: 30px;
+    background: #f0f8ff00;
+
+}
+.MuiChip-deleteIcon {
+    color: rgb(240 230 140) !important;
+    width: 22px;
+    cursor: pointer;
+    height: 22px;
+    margin: 0 5px 0 -6px;
+    -webkit-tap-highlight-color: transparent;
+}
